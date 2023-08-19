@@ -6,6 +6,10 @@ Iniciei no mundo da Tecnologia em 2022, quando resolvi dar a chance de conhecer 
 
 <h3 align="left">Redes</h3>
 
+<a href="https://web.dio.me/users/larissa_silvaedge?tab=skills">
+    <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Perfil%20na%20DIO-FFF?style=for-the-badge">
+</a>
+
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=6ebd6d&color:FFF)](mailto:larissa.silvaedge@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=6ebd6d&color:FFF)](https://www.linkedin.com/in/larissa-silva-874022150/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=6ebd6d&color:FFF)](https://www.instagram.com/soolari2/)
