@@ -23,4 +23,6 @@ Iniciei no mundo da Tecnologia em 2022, quando resolvi dar a chance de conhecer 
   <img src="https://github-readme-stats.vercel.app/api?username=larissaSL&show_icons=true" />
 </picture>
 
+<h3 align="left">Skills Stats</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=larissasl&show_icons=true&locale=en&layout=compact&theme=dark" alt="larissasl" /></p>
 
