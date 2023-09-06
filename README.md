@@ -6,7 +6,7 @@ Iniciei no mundo da Tecnologia em 2022, quando resolvi dar a chance de conhecer 
 
 <h3 align="left">Redes</h3>
 
-<a href="https://web.dio.me/users/larissa_silvaedge?tab=skills">
+<a href="https://www.dio.me/users/larissa_silvaedge">
     <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Perfil%20na%20DIO-FFF?style=for-the-badge">
 </a>
 
