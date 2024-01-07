@@ -1,6 +1,9 @@
 <h1>Olá! Eu sou a Larissa ✌</h1>
 
-Iniciei no mundo da Tecnologia em 2022, quando resolvi dar a chance de conhecer e ir mais a fundo na área, estudei e consegui entrar na FATEC - Faculdade de Tecnologia de São Paulo, lá eu faço Desenvolvimento de Software Multiplataforma e to bem contente com os desafios que a área proporciona.
+Minha jornada está imersa no universo do Desenvolvimento de Software Multiplataforma enquanto estudo na FATEC-SP.
+Entre códigos e algoritmos, encontro equilíbrio como gamer e amante de filmes. Para mim, a vida é uma exploração constante, uma oportunidade para criar memórias significativas e impactar positivamente aqueles ao meu redor.
+
+Aqui eu salvo todo meu processo de aprendizado, em cursos, projetos e desafios feitos ao longo da minha trajetória, sinta-se a vontade para conhecer mais.
 
 <b><i>"Ao infinito e além". LIGHTYEAR, BUZZ</i></b>
 
